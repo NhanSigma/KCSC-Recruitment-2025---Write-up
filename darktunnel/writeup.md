@@ -1,4 +1,4 @@
-Hướng dẫn cách giải bài babyROP của giải KCSC-Recruitment-2025
+Hướng dẫn cách giải bài darktunnel của giải KCSC-Recruitment-2025
 
 **Author:** Nguyễn Cao Nhân aka Nhân Sigma
 
